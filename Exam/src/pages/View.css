@@ -1,0 +1,45 @@
+body{
+    background-image: url('https://www.visma.com/blog/wp-content/uploads/sites/46/2020/08/dominikschroderFIKD9t55zQunsplash-scaled-1.jpg');
+}
+
+.container {
+    padding-top: 10px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+    background-color: #f8f9fa;
+    box-shadow: 0 2px 3px rgba(0, 0, 0, 0.1);
+}
+
+table thead {
+    background-color: #5e6770;
+    color: #ffffff;
+}
+
+table th, table td {
+    padding: 10px;
+    text-align: left;
+    border: 1px solid #dee2e6;
+}
+
+table tbody tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+table tbody tr:hover {
+    background-color: #e9ecef;
+}
+.box {
+    display: flex;
+    text-align: center;
+    border: none;
+}
+.box-1{
+    padding-right: 20px;
+}
+
+
+
